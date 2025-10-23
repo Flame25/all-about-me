@@ -1,7 +1,9 @@
 ## UTS-5 My Personal Reviews
 Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
-ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria).  
+Rekap skor siap diunduh sebagai CSV:  
+<a href="nilai.csv" download>Download CSV ringkasan</a>
 
 # Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)
 
@@ -18,4 +20,45 @@ Portofolio ini berisi rangkaian empat tugas utama (UTS-1 hingga UTS-4) yang masi
 UTS-5 menjadi bagian yang menyatukan semuanya. Tugas ini menunjukkan bahwa seluruh proses dalam UTS 1–4 tidak hanya sekadar praktik, tetapi juga berpijak pada pemahaman teori dan refleksi mendalam terhadap diri sendiri. Hasil yang saya capai, termasuk skor sempurna 5.00, mencerminkan kemampuan saya dalam menghubungkan konsep dengan pengalaman nyata. Secara keseluruhan, portofolio ini memperlihatkan orisinalitas dan kesadaran diri yang kuat, meskipun masih ada ruang untuk memperdalam aspek teknis dan penggalian inspirasi.
 
 ---
+
+
+## Hasil Self-Assessment
+
+### UTS-1 All About Me
+* **Skor:** 17 / 20 (85.0%)
+* **Kriteria:** Originality=5, Keterlibatan=4, Humor=3, Inspirasi=5
+* **Catatan:** Tulisanmu menunjukkan orisinalitas dan wawasan yang kuat, dengan struktur yang rapi dan reflektif.
+
+### UTS-2 My Songs for You
+* **Skor:** 16 / 20 (80.0%)
+* **Kriteria:** Originality=4, Keterlibatan=4, Humor=3, Inspirasi=5
+* **Catatan:** Lirik reflektif dan bermakna; kuat di tema dan inspirasi; bisa lebih menonjolkan imagery emosional; humor tidak relevan tapi tidak mengganggu.
+
+### UTS-3 My Stories for You
+* **Skor:** 17 / 20 (85.0%) 
+* **Kriteria:** Originality=5, Keterlibatan=5, Pengembangan Narasi=3, Inspirasi=5
+* **Catatan:** Kisah reflektif dan orisinal; dua bagian (Aksantara & Tick, Tick… Boom!) terhubung mulus; pesan inspiratif kuat dan emosional; sangat memikat dari awal hingga akhir.. 
+
+### UTS-4 My SHAPE
+* **Skor:** 17 / 20 (85.0%)
+* **Kriteria:** Originality=5, Keterlibatan=5, Pengembangan Narasi=2, Inspirasi=5
+* **Catatan:** Reflektif, orisinal, dan sangat menginspirasi. Terstruktur dengan baik dari hasil VIA hingga narasi identitas. Bisa lebih kuat lagi jika menambahkan rencana aksi 90 hari secara konkret.
+
+### UTS-5 My Personal Reviews
+* **Skor:** 25 / 25 (64.0%)
+* **Kriteria:** Level 1=3, Level 2=4; Level 3=3; Level 4=3, Level 5=3 
+* **Catatan:** Fokus selanjutnya adalah memastikan rekomendasi perbaikan yang dibuat di UTS-5 (seperti penambahan narasi dilema di UTS-4 dan eksplorasi Hidden Self di UTS-1) benar-benar diimplementasikan dalam revisi konten UTS 1-4 Anda.
+
+## Rekap Skor 
+* **UTS-1:** 17/20 **(85%)** 
+* **UTS-2:** 16/20 **(80%)** 
+* **UTS-3:** 16/20 **(85%)** 
+* **UTS-4:** 17/20 **(85%)** 
+* **UTS-5:** 16/25 **(64%)** 
+
+
+## Rekap Skor Peer Review UTS
+
+Download file: 
+* Rekap peer review UTS: 
 
