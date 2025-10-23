@@ -1,160 +1,55 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+## Lanterns In a Dark
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+**Lanterns In a Dark** adalah refleksi pribadi saya tentang perjalanan belajar, pertumbuhan, dan prinsip hidup yang saya pegang. Setiap bagian lirik mencerminkan pengalaman dan filosofi saya dalam menghadapi tantangan, belajar hal baru, dan mengembangkan diri.
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+<div style="text-align:center; margin:20px 0;">
+  <audio controls style="width:60%;">
+    <source src="../audio/song.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
+---
 
+**Verse 1**  
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+> I wander through the quiet spaces,  
+> Where thought meets sky, and curiosity traces  
+> The hidden patterns in the world around,  
+> Listening to whispers, where answers are found.
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+**Pre-Chorus**  
 
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
+> I may stumble, I may fall,  
+> Yet I rise, I heed the call.
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+**Chorus**  
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+> I carry my principles like lanterns in the dark,  
+> Guiding my journey, igniting a spark.  
+> Through shadow and storm, through calm and fight,  
+> I shape my path, I reach for the light.
 
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
+**Verse 2**
 
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
+> I take on challenges, both small and grand,  
+> Turning thoughts to action with careful hands,  
+> Each step a lesson, each challenge a spark,  
+> Illuminating corners that were once dark.
 
 
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
+**Bridge**
 
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
+> It’s not about being loud or first to shine,  
+> But finding meaning, one choice at a time,  
+> In every stumble, in every try,  
+> I discover the strength I carry inside.
 
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
+**Outro**
 
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
-
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
-
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+> I walk my path, both steady and free,  
+> A mind exploring, a soul that sees,  
+> In every breath, in all I pursue,  
+> I live my principles, and remain true.

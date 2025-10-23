@@ -1,22 +1,14 @@
 # Selamat Berjumpa {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+<p style="text-align:center;">
+  <img src="images/orange.jpeg" alt="About Me"
+       style="width:30%;border:2px solid #ccc;border-radius:10px;padding:4px;">
+</p>
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Halo! Saya **Christopher Richard Chandra**, senang sekali kamu berkunjung ke repositori saya.  
+Di sini, saya mendokumentasikan perjalanan saya dalam mempelajari dan mengasah keterampilan **komunikasi interpersonal** sebagai bagian dari tugas mata kuliah **II2100**.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Di sini, saya mendokumentasikan perjalan saya dalam mempelajari dan mengasah keterampilan Komunikasi interpersonal melalui teks, karya, dan refleksi pribadi.
+Selama proses pembelajaran ini, saya banyak melakukan eksplorasi melalui tulisan dan refleksi pribadi. Tujuannya adalah untuk memahami diri saya sendiri sekaligus memperbaiki cara saya berkomunikasi dengan orang lain.
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
-
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
-
-
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
-
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
-
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
-
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+Setiap konten yang ada di sini adalah hasil dari pemikiran singkat dan eksploratif jadi mungkin tidak sepenuhnya mencerminkan diri saya secara keseluruhan. Namun, saya berharap pembaca bisa merasakan perjalanan belajar saya dan mendapatkan inspirasi darinya.

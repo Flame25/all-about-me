@@ -1,12 +1,26 @@
 # UTS-3 My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+## Perjalanan Saya di Aksantara ITB
+Saya masuk Aksantara ITB pada semester 4 dan bagi saya ini adalah salah satu keputusan terbaik yang pernah saya ambil. Dari awal, pengalaman ini terasa berbeda dari UKM pada umumnya. Tidak seperti beberapa UKM atau himpunan lain yang menekankan formalitas ospek, Aksantara lebih fokus pada praktik dan pembelajaran langsung.
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Tahap awal yang harus kami lalui adalah pendidikan dasar dimana kami belajar tentang pembuatan UAV (drone) dan pemrogramannya. Saya ditempatkan di tim VTOL yang fokus pada pembuatan drone dengan misi khusus. Awalnya, banyak hal terasa membingungkan, mulai dari desain drone hingga kode-kode pemrograman untuk membuat drone bergerak otomatis. Namun, seiring berjalannya waktu, hal ini mulai menjadi sangat menarik karena melihat drone bergerak sendiri tanpa intervensi manusia adalah pengalaman yang luar biasa.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+Pengalaman ini juga menjadi entry level bagi saya untuk terjun lebih dalam ke dunia UAV. Saya sangat bersyukur kepada ketua tim sebelumnya yang mau benar-benar mengajarkan kami, membimbing, dan membantu kami merasakan sense of belonging terhadap tim ini sehingga kami benar-benar akrab dan bekerja sebagai satu tim. Kami hampir bekerja setiap hari dan tidak terasa tiga bulan berlalu sampai persiapan menuju kompetisi di Jogja.
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+Di Jogja, saya merasa masih sangat tidak siap. Banyak fitur belum selesai dan pengujian belum sepenuhnya rampung. Kami terus melakukan pengujian dari pagi hingga pagi berikutnya. Hasilnya, kami kalah di 8 besar. Semua anggota tim sedih karena merasa usaha kami sia-sia, tapi bagi saya, pengalaman ini sangat berharga. Saya belajar banyak hal teknis maupun non-teknis sehingga kekalahan itu tidak terasa menyedihkan.
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+Beberapa bulan setelah itu, saya mengajukan diri dan terpilih mewakili Aksantara untuk lomba internasional di Singapura yang memiliki tingkat kompleksitas jauh lebih tinggi karena semua harus dilakukan indoor. Tantangan ini menjadi kesempatan besar untuk mengembangkan kemampuan saya lebih jauh dan pengalaman sebelumnya membuat saya lebih siap menghadapi situasi yang kompleks dan penuh tekanan.
+
+## Belajar dari Tick, Tick… Boom!
+
+Beberapa waktu lalu, saya menonton film "Tick, Tick… Boom!" yang menceritakan perjalanan Jonathan Larson, seorang penulis dan komponis muda yang berjuang mengejar impian di dunia teater. Film ini unik karena bukan hanya tentang kehidupannya secara umum, tetapi secara khusus menceritakan proses Larson membuat musikal "Tick, Tick… Boom!" itu sendiri. Kita bisa melihat dengan jelas bagaimana ide, kegelisahan, dan pengalaman pribadinya dituangkan ke dalam karya yang ia cintai.
+
+Di film ini, Larson digambarkan sebagai sosok yang penuh semangat, kreatif, dan konyol. Kita bisa melihat bagaimana ia menjalani hari-harinya: menulis musik, berdiskusi dengan teman, menghadapi tekanan pekerjaan, dan mengatur waktunya untuk menyelesaikan musikalnya. Banyak momen lucu dan menghibur, misalnya ketika ia frustrasi dengan hal-hal kecil atau ketika ide-idenya muncul secara tiba-tiba dan konyol, tetapi semuanya mencerminkan dedikasinya untuk berkarya.
+
+Salah satu hal paling menyentuh adalah musikalnya sendiri — "Tick, Tick… Boom!" — yang ramai dan penuh antusiasme. Larson bekerja keras untuk membuat karya ini, dan orang-orang di sekitarnya meresponsnya dengan penuh semangat. Sayangnya, tragisnya Larson meninggal sebelum sempat melihat kesuksesan penuh dari karyanya sendiri, meninggalkan cerita tentang seorang kreator yang gigih mengejar passion hingga akhir hayatnya.
+
+Menonton film ini membuat saya merenung tentang perjalanan pribadi saya sendiri. Seperti Larson, saya juga menghadapi ketidakpastian dan tantangan dalam mengejar hal-hal yang saya minati, mulai dari belajar hal baru hingga menghadapi kegagalan. Saya belajar bahwa ketekunan, keberanian, dan konsistensi jauh lebih penting daripada hasil instan.
+
+Film ini juga mengajarkan saya tentang pentingnya teman dan komunitas. Larson dikelilingi teman-teman yang mendukung, mengkritik, dan menantangnya untuk menjadi lebih baik. Lingkungan yang positif sangat membantu kita untuk tetap termotivasi dan berkembang, terutama ketika menghadapi tantangan sulit.
+
+Dari "Tick, Tick… Boom!", saya belajar bahwa waktu terus berjalan — tick, tick, boom — dan setiap detik bisa diisi dengan keberanian, kreativitas, dan usaha nyata. Cerita Larson mengingatkan saya untuk tidak takut mencoba, terus belajar, dan mengejar apa yang benar-benar saya inginkan, meskipun jalan di depan penuh rintangan dan ketidakpastian.
