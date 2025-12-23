@@ -1,0 +1,21 @@
+# UAS-4 My Knowledge
+
+## Rekayasa Sistem dan Integrasi
+
+Selain pengetahuan teknis spesifik, proyek ini juga memerlukan pemahaman tentang rekayasa sistem, yaitu kemampuan untuk mengintegrasikan berbagai komponen menjadi satu sistem yang berfungsi secara utuh. Hal ini mencakup perancangan arsitektur sistem, pengujian bertahap, validasi dan verifikasi, serta dokumentasi teknis yang baik. Pendekatan ini penting untuk memastikan bahwa sistem yang dikembangkan tidak hanya bekerja secara lokal, tetapi juga dapat dikembangkan dan dipelihara dalam jangka panjang.
+
+## Sistem Kendali dan Kontrol Formasi
+
+Proyek CARGO membutuhkan pengetahuan yang kuat dalam sistem kendali, khususnya kendali umpan balik, stabilisasi, dan kontrol lintasan. Selain kendali individu UAV, diperlukan pula pemahaman tentang kontrol formasi dan koordinasi multi-agen, termasuk sinkronisasi gerak, pembagian beban, dan menjaga stabilitas sistem saat membawa payload secara kolaboratif. Pengetahuan tentang kontrol terdistribusi dan konsep consensus menjadi relevan dalam konteks swarming.
+
+## State Estimation dan Sensor Fusion
+
+Kemampuan UAV untuk beroperasi secara otonom sangat bergantung pada akurasi state estimation, sehingga pengetahuan tentang estimasi keadaan menjadi komponen krusial. Hal ini mencakup pemahaman tentang sensor inersia, GPS, serta metode sensor fusion untuk menggabungkan berbagai sumber data. Pengetahuan mengenai filter estimasi, seperti Kalman Filter dan variannya, diperlukan untuk menghasilkan estimasi posisi, kecepatan, dan orientasi yang andal, terutama sebagai dasar pengendalian formasi dan pengangkutan payload.
+
+## Sistem Navigasi dan Lokalisasi
+
+Pada tahap awal, sistem masih mengandalkan GPS-based navigation, sehingga pemahaman tentang sistem navigasi satelit dan keterbatasannya menjadi penting. Ke depan, ketika sistem dikembangkan menuju navigasi indoor, diperlukan pengetahuan tambahan mengenai metode lokalisasi alternatif, seperti navigasi berbasis visi, LIDAR, atau sistem referensi lokal. Pengetahuan ini penting untuk memastikan kontinuitas operasi UAV pada lingkungan tanpa GPS.
+
+## Sistem Multi-Agen dan Komunikasi
+
+Swarming menuntut pemahaman tentang sistem multi-agen, termasuk mekanisme pertukaran informasi, sinkronisasi waktu, dan keandalan komunikasi. Pengetahuan mengenai jaringan komunikasi, latensi, serta toleransi terhadap kegagalan (fault tolerance) menjadi penting agar sistem swarm tetap stabil meskipun terjadi gangguan pada sebagian agen.

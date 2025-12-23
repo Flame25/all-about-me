@@ -1,0 +1,13 @@
+# UAS-1 My Concepts
+
+## Kerangka Kolaborasi Manusia dan Teknologi
+
+Saya memandang rekayasa bukan sekadar soal membangun teknologi atau sistem yang canggih, tetapi tentang bagaimana manusia bisa berkolaborasi secara lebih efektif. Banyak persoalan besar dunia seperti kemiskinan, konflik sosial, dan kerusakan lingkungan yang sebenarnya berakar pada masalah koordinasi dan perbedaan cara pandang, bukan semata-mata keterbatasan teknologi.
+
+Karena itu, solusi yang baik menurut saya perlu memperhatikan tiga aspek utama. Pertama adalah nilai dan empati manusia. Kita perlu memiliki kesepahaman tentang tujuan bersama dan dampak dari setiap keputusan yang diambil. Tanpa dasar nilai yang selaras, teknologi hanya akan menjadi alat optimasi yang tidak selalu membawa kebaikan. Proses komunikasi, baik antarindividu maupun di ruang publik, menjadi kunci untuk menyamakan arah ini.
+
+Kedua adalah cara berpikir dan pemanfaatan teknologi, termasuk kecerdasan buatan. AI dapat membantu manusia mengelola informasi dalam skala besar, mempercepat analisis, dan mendukung pengambilan keputusan. Namun peran utamanya tetap sebagai alat bantu. Manusia tetap bertanggung jawab menentukan tujuan, prioritas, dan batasannya.
+
+Ketiga adalah pengelolaan energi dan sumber daya. Ini mencakup waktu, fokus, dan kreativitas manusia, serta sumber daya alam yang kita gunakan. Rekayasa yang baik seharusnya mempertimbangkan keberlanjutan, sehingga solusi yang dihasilkan tidak menyelesaikan satu masalah dengan menciptakan masalah lain.
+
+Dengan pendekatan ini, saya melihat karya rekayasa yang penting di era AI adalah sistem atau platform yang membantu manusia berkomunikasi dengan lebih baik, berpikir bersama, dan bekerja secara selaras untuk mencapai tujuan yang bermanfaat bagi banyak orang.
