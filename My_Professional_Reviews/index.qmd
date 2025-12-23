@@ -4,13 +4,13 @@
 
 Download file:
 
-- Rekap skor peer review UTS: [Download Excel skor UAS]()
+- Rekap skor peer review UTS: [Download Excel skor UAS](18222057_UAS-5_Skor.xlsx)
 
 ## Self-assessment 
 
 ### UAS 1 My Concepts
 
-**Analisis Konten:** Membahas "Ketidaksetaraan Global sebagai Masalah Sistemik di Era AI". Argumen sangat koheren dalam menghubungkan teknologi AI dengan kesenjangan ekonomi.
+**Analisis Konten:** Konsep ini mengusulkan kerangka kolaborasi harmonis di mana manusia memegang kendali atas nilai dan empati, sementara teknologi berfungsi sebagai alat optimasi yang harus tetap memperhatikan keberlanjutan sumber daya.
 
 | Criterion | Skor | Level Description (Rubric) |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ Download file:
 
 ### UAS 2 My Opinions
 
-**Analisis Konten:** Berpendapat bahwa AI memperparah ketidaksetaraan tanpa desain etis. Konten ini persuasif karena menyoroti pergeseran dari efisiensi pasar ke keadilan sosial.
+**Analisis Konten:** Penulis menekankan krusialnya pengawasan manusia (human in the loop) dalam rekayasa berbasis AI untuk menjamin akuntabilitas, serta pentingnya pendidikan yang membentuk karakter reflektif di luar sekadar efisiensi teknis.
 
 | Criterion | Skor | Level Description (Rubric) |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ Download file:
 
 ### UAS 3 My Innovation
 
-**Analisis Konten:** Mengusulkan "Sistem Pemerataan Kapabilitas Berbasis AI". Inovasi ini memiliki aktor dan alur kerja yang jelas (*profiling* hingga *feedback loop*).
+**Analisis Konten:** Inovasi CARGO mengembangkan sistem robotika udara kooperatif (swarming) berbasis ROS 2 yang memungkinkan beberapa UAV bekerja sebagai satu kesatuan untuk mengangkat beban yang melebihi kapasitas drone tunggal.
 
 | Criterion | Skor | Level Description (Rubric) |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ Download file:
 
 ### UAS 4 My Knowledge
 
-**Analisis Konten:** Menjelaskan landasan keilmuan mulai dari socio-technical system, AI, hingga Capability Approach. Sangat terkurasi dan memiliki rujukan yang jelas.
+**Analisis Konten:** Bagian ini memetakan landasan teknis yang komprehensif, mulai dari rekayasa sistem, kendali formasi, hingga fusi sensor dan navigasi, yang diperlukan untuk merealisasikan sistem otonom CARGO secara andal.
 
 | Criterion | Skor | Level Description (Rubric) |
 | :--- | :--- | :--- |
